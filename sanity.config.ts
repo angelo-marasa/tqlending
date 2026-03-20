@@ -7,8 +7,8 @@ import { schema } from "./src/sanity/schemas";
 import { deskStructure } from "./src/sanity/desk-structure";
 
 export default defineConfig({
-  name: "mortgage-boilerplate",
-  title: "Mortgage Pipeline",
+  name: "tqlending",
+  title: "TQ Lending",
   projectId,
   dataset,
   plugins: [
